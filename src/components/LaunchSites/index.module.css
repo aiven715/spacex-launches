@@ -1,0 +1,11 @@
+.root {
+  @apply flex flex-col mt-20 max-w-xs w-full mx-auto;
+}
+
+.label {
+  @apply font-semibold mb-2 text-base;
+}
+
+.select {
+  @apply bg-gray-700 p-3 rounded;
+}
